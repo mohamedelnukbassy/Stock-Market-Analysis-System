@@ -125,16 +125,20 @@ Stock-Market-Analysis-System/
 ## 📸 Screenshots
 
 ### Main Dashboard with Candlestick Chart
-![Main Dashboard](screenshots/first.png)
+
+![Main Dashboard](./screenshots/first.png)
 
 ### Line Chart with Moving Average
-![Line Chart](screenshots/second.png)
+
+![Line Chart](./screenshots/second.png)
 
 ### Candlestick Chart with Volume
-![Candlestick](screenshots/third.png)
+
+![Candlestick](./screenshots/third.png)
 
 ### Statistical Summary & Performance Analysis
-![Statistics](screenshots/fourth.png)
+
+![Statistics](./screenshots/fourth.png)
 <!-- Replace these with your actual screenshots -->
 <!-- 
 ![Main Dashboard](screenshots/dashboard.png)
