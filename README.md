@@ -124,8 +124,17 @@ Stock-Market-Analysis-System/
 
 ## 📸 Screenshots
 
-> 💡 Add your screenshots here after running the app
+### Main Dashboard with Candlestick Chart
+![Main Dashboard](screenshots/first.png)
 
+### Line Chart with Moving Average
+![Line Chart](screenshots/second.png)
+
+### Candlestick Chart with Volume
+![Candlestick](screenshots/third.png)
+
+### Statistical Summary & Performance Analysis
+![Statistics](screenshots/fourth.png)
 <!-- Replace these with your actual screenshots -->
 <!-- 
 ![Main Dashboard](screenshots/dashboard.png)
@@ -167,12 +176,12 @@ Stock-Market-Analysis-System/
 
 This project was developed by a team of 4 members, each contributing their expertise:
 
-| Member | Role | Responsibilities |
-|--------|------|-----------------|
-| **[Your Name]** | Project Lead / Backend | API integration, project setup, error handling |
-| **[Member 2]** | Data Processing | Data cleaning with Pandas, indicator calculations |
-| **[Member 3]** | Visualization Developer | Plotly charts, interactive visualizations |
-| **[Member 4]** | UI Developer / Tester | Streamlit interface, testing, documentation |
+| Name | Student ID | Role | Responsibilities |
+|------|-----------|------|-----------------|
+| **Mohamed Mahmoud** | 202206860 | Full-Stack Developer | Web app development, API integration, data processing, visualization, UI design |
+| **Marwan Hussien** | 202206802 | Full-Stack Developer | Web app development, API integration, data processing, visualization, UI design |
+| **Habiba Sherif Mahmoud** | 202206167 | Documentation & Testing | Project documentation, Word report, and application testing with various stock symbols |
+| **Mirna Omar** | 202207094 | Presentation & Requirements | PowerPoint presentation design and gathering user interface requirements |
 
 ---
 
